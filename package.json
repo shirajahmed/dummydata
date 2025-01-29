@@ -1,0 +1,12 @@
+{
+  "name": "dummy-data-server",
+  "version": "1.0.0",
+  "description": "A dummy REST API using JSON Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8080"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
