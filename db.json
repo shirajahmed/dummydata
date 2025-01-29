@@ -1,20 +1,22 @@
 {
-  {
-    "id": 1,
-    "title": "Design Homepage",
-    "description": "Create a responsive design for the homepage.",
-    "status": "To Do"
-  },
-  {
-    "id": 2,
-    "title": "Implement API Integration",
-    "description": "Integrate the backend API with the frontend.",
-    "status": "In Progress"
-  },
-  {
-    "id": 3,
-    "title": "Write Documentation",
-    "description": "Document the project setup and usage.",
-    "status": "Done"
-  }
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design Homepage",
+      "description": "Create a responsive design for the homepage.",
+      "status": "To Do"
+    },
+    {
+      "id": 2,
+      "title": "Implement API Integration",
+      "description": "Integrate the backend API with the frontend.",
+      "status": "In Progress"
+    },
+    {
+      "id": 3,
+      "title": "Write Documentation",
+      "description": "Document the project setup and usage.",
+      "status": "Done"
+    }
+  ]
 }
