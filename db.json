@@ -1,4 +1,13 @@
 {
+  "users": [
+    {
+      "ID": "001",
+      "name": "Shiraj Ahmed",
+      "email": "shirajahmedlaskar@gmail.com",
+      "password": "asdfg@12345"
+    }
+  
+  ],
     "stores": [
     {
       "Seq No.": 1,
